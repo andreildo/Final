@@ -1,3 +1,0 @@
-# Final
-Projeto final
-# Inciando

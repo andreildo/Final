@@ -31,7 +31,7 @@ Add security=SSL at the end
 
  
  
-%sql ibm_db_sa://scv09948:R26FbsTsGRODTnqb@b70af05b-76e4-4bca-a1f5-23dbb4c6a74e.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud:32716/bludb?authSource=admin&replicaSet=replset
+%sql ibm_db_sa://xxxxxxx:xxxxxxxxxxxxx@b70af05b-76e4-4bca-a1f5-23dbb4c6a74e.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud:32716/bludb?authSource=admin&replicaSet=replset
 Tasks
 Now write and execute SQL queries to solve the assignment tasks.
 
